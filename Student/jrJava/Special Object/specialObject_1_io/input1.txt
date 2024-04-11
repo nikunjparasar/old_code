@@ -1,0 +1,4 @@
+123 Donald 3.12
+1101 Hillary 3.78
+45 Bernie 3.5
+512 Joe 3.55

@@ -1,0 +1,4 @@
+%id:     7   name:   Donald   grade:  3.98 
+%id:  1012   name:  Hillary   grade:  3.78 
+%id:    48   name:   Bernie   grade:  4.00 
+%id:   512   name:      Joe   grade:  3.10 
